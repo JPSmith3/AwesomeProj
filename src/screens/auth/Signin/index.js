@@ -11,7 +11,7 @@ const Signin = () => {
     const [checked, setChecked] = useState(false);
 
     const onSignUp = () => {
-        console.log('Hello');
+        console.log('Hola');
     }
     return (
         <ScrollView style={styles.container}>
